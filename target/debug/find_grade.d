@@ -1,0 +1,1 @@
+C:\Users\sreysor_pc\Desktop\Ramkhamhaeng\ University\Computor\ Science\ComputerScience\ 2566\Computer\ science1_66\COS3105\LAB\find_grade\target\debug\find_grade.exe: C:\Users\sreysor_pc\Desktop\Ramkhamhaeng\ University\Computor\ Science\ComputerScience\ 2566\Computer\ science1_66\COS3105\LAB\find_grade\src\main.rs
